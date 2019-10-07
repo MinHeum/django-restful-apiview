@@ -333,3 +333,6 @@ Temporary Items
 # Pyre type checker
 
 # End of https://www.gitignore.io/api/macos,python,django,pycharm+all,jetbrains+all
+
+# ignore venv
+venv/
