@@ -336,3 +336,6 @@ Temporary Items
 
 # ignore venv
 venv/
+
+#ignore secret key
+secrets.json
